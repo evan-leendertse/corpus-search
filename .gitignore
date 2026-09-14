@@ -1,0 +1,12 @@
+# Personal/corpus data — never commit
+*.pdf
+similarity_results.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS
+.DS_Store
